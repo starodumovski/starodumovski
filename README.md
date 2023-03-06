@@ -6,7 +6,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://github.com/starodumovski/starodumovski/blob/main/1435-Laptop-Beside-The-Plants.jpg" />
+  <img src="https://github.com/starodumovski/starodumovski/blob/main/laptop_and_plants.jpg" />
 </div>
 
 <div id="badges" align="center">
