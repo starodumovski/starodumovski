@@ -33,6 +33,24 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=starodumovski&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=starodumovski&theme=dark)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starodumovski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starodumovski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/starodumovski/starodumovski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starodumovski&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/starodumovski/starodumovski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=starodumovski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="starodumovski's GitHub Stats" />
+</a>
+
+
+---
+
+### Content
+University projects:
+
+1. [Practical Program Analysis](https://github.com/starodumovski/PPA_course)
+2. Distributed Networks and Systems:
+  2.1 [Raft protocol](https://github.com/starodumovski/raft)
+  2.2 [Chord](https://github.com/starodumovski/Chord)
