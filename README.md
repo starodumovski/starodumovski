@@ -54,9 +54,7 @@
 
 ---
 
-<details><summary>
-### Content
-</summary>
+### <details><summary> Content </summary>
 <p>
 University projects:
 
