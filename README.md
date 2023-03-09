@@ -54,11 +54,11 @@
 
 ---
 
-<details><summary> **Content** </summary>
+<details>**<summary> Content </summary>**
 
 University projects:
 - [Practical Program Analysis](https://github.com/starodumovski/PPA_course)
 - Distributed Networks and Systems
-  - [Raft protocol](https://github.com/starodumovski/
+  - [Raft protocol](https://github.com/starodumovski/raft)
   - [Chord](https://github.com/starodumovski/Chord)
 </details>
