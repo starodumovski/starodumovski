@@ -54,10 +54,15 @@
 
 ---
 
+<details><summary>
 ### Content
+</summary>
+<p>
 University projects:
 
 1. [Practical Program Analysis](https://github.com/starodumovski/PPA_course)
 2. Distributed Networks and Systems:
   2.1 [Raft protocol](https://github.com/starodumovski/raft)
   2.2 [Chord](https://github.com/starodumovski/Chord)
+
+</p></details>
