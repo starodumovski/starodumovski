@@ -54,7 +54,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starodumovski&hide=Jupyter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&custom_title=3%20Most%20Used%20Lang" alt="Top 3 Most Used Langs" />
   </a>
   <a href="https://github.com/starodumovski/starodumovski">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=starodumovski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="starodumovski's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=starodumovski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=66ff00&bg_color=1d1f21&ring_color=66ff00" alt="starodumovski's GitHub Stats" />
   </a>
 </div>
 
