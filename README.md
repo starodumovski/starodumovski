@@ -6,7 +6,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://github.com/starodumovski/starodumovski/blob/main/laptop_and_plants.jpg" />
+  <img src="https://github.com/starodumovski/starodumovski/blob/main/laptop_and_plants.jpg" height=200 width=900/>
 </div>
 
 <div id="badges" align="center">
@@ -30,26 +30,33 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  
+  <img src="https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen&logo=Python">
+  <img src="https://img.shields.io/static/v1?label=Tools&message=Jupyter&color=brightgreen&logo=Jupyter">
+  <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=brightgreen&logo=Visual Studio Code">
+  <img src="https://img.shields.io/static/v1?label=Tools&message=PostgreSQL&color=brightgreen&logo=PostgreSQL">
+  <img src="https://img.shields.io/static/v1?label=Tools&message=NumPy&color=brightgreen&logo=numpy">
+  <img src="https://img.shields.io/static/v1?label=Tools&message=pandas&color=brightgreen&logo=pandas">
+<!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="60" height="60">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" width="60" height="60">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" width="60" height="60">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="60" height="60">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60">&nbsp;
+-->
 </div>
 
 ---
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=starodumovski&theme=dark)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=starodumovski&count_private=true&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starodumovski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/starodumovski/starodumovski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starodumovski&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/starodumovski/starodumovski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=starodumovski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="starodumovski's GitHub Stats" />
-</a>
+<div id="stats" align="center">
+  <a href="https://github.com/starodumovski/starodumovski">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starodumovski&hide=Jupyter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&custom_title=3%20Most%20Used%20Lang" alt="Top 3 Most Used Langs" />
+  </a>
+  <a href="https://github.com/starodumovski/starodumovski">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=starodumovski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="starodumovski's GitHub Stats" />
+  </a>
+</div>
 
 
 ---
