@@ -30,15 +30,16 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  
   <img src="https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen&logo=Python">
+  <img src="https://img.shields.io/static/v1?label=Code&message=Java&color=brightgreen&logo=OpenJDK">
+</div>
+<div>
   <img src="https://img.shields.io/static/v1?label=Tools&message=Jupyter&color=brightgreen&logo=Jupyter">
   <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=brightgreen&logo=Visual Studio Code">
   <img src="https://img.shields.io/static/v1?label=Tools&message=PostgreSQL&color=brightgreen&logo=PostgreSQL">
   <img src="https://img.shields.io/static/v1?label=Tools&message=NumPy&color=brightgreen&logo=numpy">
   <img src="https://img.shields.io/static/v1?label=Tools&message=pandas&color=brightgreen&logo=pandas">
 <!--
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="60" height="60">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60">&nbsp;
 -->
 </div>
