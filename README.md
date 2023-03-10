@@ -30,15 +30,18 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen&logo=Python">
-  <img src="https://img.shields.io/static/v1?label=Code&message=Java&color=brightgreen&logo=OpenJDK">
+  <img src="https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen&logo=Python&logoColor=EE82EE">
+  <img src="https://img.shields.io/static/v1?label=Code&message=Java&color=brightgreen&logo=OpenJDK&logoColor=EE82EE">
+  <img src="https://img.shields.io/static/v1?label=Code&message=C/C%2b%2b&color=brightgreen&logo=C%2b%2b&logoColor=EE82EE">
 </div>
 <div>
-  <img src="https://img.shields.io/static/v1?label=Tools&message=Jupyter&color=brightgreen&logo=Jupyter">
-  <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=brightgreen&logo=Visual Studio Code">
-  <img src="https://img.shields.io/static/v1?label=Tools&message=PostgreSQL&color=brightgreen&logo=PostgreSQL">
-  <img src="https://img.shields.io/static/v1?label=Tools&message=NumPy&color=brightgreen&logo=numpy">
-  <img src="https://img.shields.io/static/v1?label=Tools&message=pandas&color=brightgreen&logo=pandas">
+    <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=brightgreen&logo=Visual Studio Code&logoColor=EE82EE">
+</div>
+<div>
+  <img src="https://img.shields.io/static/v1?label=Tools&message=Jupyter&color=brightgreen&logo=Jupyter&logoColor=EE82EE">
+  <img src="https://img.shields.io/static/v1?label=Tools&message=PostgreSQL&color=brightgreen&logo=PostgreSQL&logoColor=EE82EE">
+  <img src="https://img.shields.io/static/v1?label=Tools&message=NumPy&color=brightgreen&logo=numpy&logoColor=EE82EE">
+  <img src="https://img.shields.io/static/v1?label=Tools&message=pandas&color=brightgreen&logo=pandas&logoColor=EE82EE">
 <!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60">&nbsp;
 -->
