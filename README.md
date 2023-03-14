@@ -27,6 +27,22 @@
 
 ---
 
+## <b>Hello, there!</b>
+I'm Andrey Starodumov 
+
+:mortar_board: Currently, I am studying at Innopolis University on the data science track
+
+<u> 
+You can contact me: 
+</u>
+
+[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" />](https://t.me/starodumovski)
+[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />](https://t.me/starodumovski)
+[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />](mailto:a.starodumovski@yandex.ru)
+[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-starodumov-001026253/)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
