@@ -17,9 +17,7 @@
   <img src="https://media.giphy.com/media/47RZOvpTG9bELpoe9O/giphy.gif" width="100px">
 </div>
 
----
-
-## <b>Hello, there!</b>
+## 
 I'm Andrey Starodumov 
 
 :mortar_board: Currently, I am studying at Innopolis University on the data science track
