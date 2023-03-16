@@ -9,6 +9,9 @@
   <a href="https://t.me/starodumovski">
     <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://t.me/starodumovski">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=starodumovski&style=flat-square&color=blue" alt=""/>
