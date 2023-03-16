@@ -27,7 +27,7 @@ You can contact me:
 </u>
 
 [<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" />](https://t.me/starodumovski)
-[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />](https://t.me/starodumovski)
+[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />](https://instagram.com/starodumovski)
 [<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />](mailto:a.starodumovski@yandex.ru)
 [<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-starodumov-001026253/)
 
