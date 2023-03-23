@@ -21,7 +21,10 @@
 </div>
 
 ## 
-I'm Andrey Starodumov 
+<div>
+  <font size="4">I'm  <b>Andrey Starodumov</b>
+</font>
+</div>
 
 :mortar_board: Currently, I am studying at Innopolis University on the data science track
 
