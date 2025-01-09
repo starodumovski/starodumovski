@@ -62,14 +62,12 @@ You can contact me:
     
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=starodumovski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=66ff00&bg_color=1d1f21&ring_color=66ff00" alt="starodumovski's GitHub Stats" />
 </div>
-
-
----
-### Content
-<details> <summary> University projects: </summary>
-
-- [Practical Program Analysis](https://github.com/starodumovski/PPA_course)
-- Distributed Networks and Systems
-  - [Raft protocol](https://github.com/starodumovski/raft)
-  - [Chord](https://github.com/starodumovski/Chord)
-  </details>
+[comment]: # ---
+[comment]: #### Content
+[comment]: #<details> <summary> University projects: </summary>
+[comment]: #
+[comment]: #- [Practical Program Analysis](https://github.com/starodumovski/PPA_course)
+[comment]: #- Distributed Networks and Systems
+[comment]: #  - [Raft protocol](https://github.com/starodumovski/raft)
+[comment]: # - [Chord](https://github.com/starodumovski/Chord)
+[comment]: # </details>
