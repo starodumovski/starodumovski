@@ -26,7 +26,7 @@
 </font>
 </div>
 
-:mortar_board: Currently, I am studying at Innopolis University on the data science track
+:mortar_board: I am a bachelor of data science (Innopolis University)
 
 <u> 
 You can contact me: 
