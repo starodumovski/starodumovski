@@ -3,15 +3,15 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrey-starodumov-001026253/">
+  <a href="https://www.linkedin.com/in/starodumovski/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="https://t.me/starodumovski">
     <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/starodumovski">
+  <!-- <a href="https://t.me/starodumovski_work">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a> -->
   </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=starodumovski&style=flat-square&color=blue" alt=""/>
@@ -34,7 +34,7 @@ You can contact me:
 
 [<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" />](https://t.me/starodumovski_work)
 [<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />](mailto:a.starodumovski@yandex.ru)
-[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-starodumov-001026253/)
+[<img align='center' width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />](https://www.linkedin.com/in/starodumovski/)
 
 ---
 
